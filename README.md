@@ -1,12 +1,5 @@
-# Penguins web app deployed on Heroku
+# Portfolio Optimization Web App
 
-The deployed web app is live at https://dp-penguins.herokuapp.com/
+The deployed web app is live at portfiliooptimization.herokuapp.com
 
-This web app predicts the species of penguins as a function of their input parameters (bill length, bill width, flipper length, body mass, sex and island).
-
-The web app was built in Python using the following libraries:
-* streamlit
-* pandas
-* numpy
-* scikit-learn
-* pickle
+This is a web application made using Streamlit. It is based on the Modern Portfolio Theory. Enter your stock tickers, and your optimal portfolio will be generated. Did I mention that there are some really pretty graphs?
